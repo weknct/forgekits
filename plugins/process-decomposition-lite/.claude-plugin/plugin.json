@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "process-decomposition-lite",
+  "version": "1.0.0",
+  "description": "Free taste of the Process Decomposition Framework: the Process Decomposer orchestrator plus two phases — Bootstrap (stand up the decomposition workspace) and Process Decomposition (event-storm, classify every step as Human / Skill / Agent / LLM, map decision gates, run the error-compounding analysis). Upgrade to Premium for the full 9-phase workflow with skill/agent definition, human-in-the-middle, orchestration, security & governance, evaluation/runtime, and SOC 2 / HIPAA / GDPR compliance templates.",
+  "author": {
+    "name": "WEKNCT, INC.",
+    "email": "admin@weknct.com"
+  },
+  "homepage": "https://forgekits.dev/process-decomposition",
+  "license": "LicenseRef-ForgeKits-Lite",
+  "keywords": ["process-design", "automation", "ai-agents", "workflow", "orchestration", "decomposition", "multi-agent", "productivity"]
+}

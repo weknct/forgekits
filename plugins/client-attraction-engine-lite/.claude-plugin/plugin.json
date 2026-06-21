@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "client-attraction-engine-lite",
+  "version": "1.0.0",
+  "description": "Free taste of the Client Attraction Engine: Split Test Lab (A/B variant generator) and Pipeline Health Check. Generate test variants of any marketing asset and diagnose your funnel with industry benchmarks and ROI math. Upgrade to Premium for the full 6-agent, 12-skill marketing system.",
+  "author": {
+    "name": "WEKNCT, INC.",
+    "email": "admin@weknct.com"
+  },
+  "homepage": "https://forgekits.dev/client-attraction-engine",
+  "license": "LicenseRef-ForgeKits-Lite",
+  "keywords": ["marketing", "lead-generation", "copywriting", "ab-testing", "funnel", "conversion", "roi"],
+  "category": "marketing"
+}

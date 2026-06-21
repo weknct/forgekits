@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "sdlc-forge-lite",
+  "version": "1.0.0",
+  "description": "Free taste of SDLC Forge: an AI-guided software delivery framework for Claude Code. Ships the Forge Guide orchestrator (phase detection + next-action routing across a 9-phase SDLC), a phase-detection skill, and the morning-standup compound workflow. Upgrade to Premium for the full 100+ command set, ForgeSync (two-way sync with GitHub Issues / Azure DevOps / Jira), and 63 project templates.",
+  "author": {
+    "name": "WEKNCT, INC.",
+    "email": "admin@weknct.com"
+  },
+  "homepage": "https://forgekits.dev/sdlc-forge",
+  "license": "LicenseRef-ForgeKits-Lite",
+  "keywords": ["sdlc", "project-management", "agile", "sprint", "backlog", "standup", "productivity"]
+}

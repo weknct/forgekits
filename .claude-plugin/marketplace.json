@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "forgekits",
+  "owner": {
+    "name": "WEKNCT, INC.",
+    "email": "admin@weknct.com"
+  },
+  "description": "Production-grade Claude Code plugins for marketing automation, AI process decomposition, and AI-guided SDLC. Built by a Claude Certified Architect.",
+  "version": "1.0.0",
+  "metadata": {
+    "pluginRoot": "./plugins"
+  },
+  "plugins": [
+    {
+      "name": "client-attraction-engine-lite",
+      "displayName": "Client Attraction Engine (Lite)",
+      "source": "./client-attraction-engine-lite",
+      "description": "Free taste of the Client Attraction Engine: Split Test Lab (A/B variant generator) + Pipeline Health Check. Upgrade to Premium for the full 6-agent, 12-skill marketing system.",
+      "version": "1.0.0",
+      "author": { "name": "WEKNCT, INC.", "email": "admin@weknct.com" },
+      "homepage": "https://forgekits.dev/client-attraction-engine",
+      "license": "LicenseRef-ForgeKits-Lite",
+      "keywords": ["marketing", "lead-generation", "copywriting", "ab-testing", "funnel"],
+      "category": "marketing"
+    },
+    {
+      "name": "process-decomposition-lite",
+      "displayName": "Process Decomposition (Lite)",
+      "source": "./process-decomposition-lite",
+      "description": "Free intro to the AI Process Decomposition framework: decompose any workflow into humans, AI skills, and AI agents. Premium unlocks the full 9-phase method, registries, and SOC2/HIPAA/GDPR compliance templates.",
+      "version": "1.0.0",
+      "author": { "name": "WEKNCT, INC.", "email": "admin@weknct.com" },
+      "homepage": "https://forgekits.dev/process-decomposition",
+      "license": "LicenseRef-ForgeKits-Lite",
+      "keywords": ["ai-agents", "process-design", "automation", "decomposition", "workflow"],
+      "category": "productivity"
+    },
+    {
+      "name": "sdlc-forge-lite",
+      "displayName": "SDLC Forge (Lite)",
+      "source": "./sdlc-forge-lite",
+      "description": "Free taste of SDLC Forge: the Forge Guide orchestrator, phase detection, and the morning-standup command. Premium unlocks 100+ commands, ForgeSync (GitHub/ADO/Jira), and 63 templates.",
+      "version": "1.0.0",
+      "author": { "name": "WEKNCT, INC.", "email": "admin@weknct.com" },
+      "homepage": "https://forgekits.dev/sdlc-forge",
+      "license": "LicenseRef-ForgeKits-Lite",
+      "keywords": ["sdlc", "project-management", "agile", "devops", "automation"],
+      "category": "productivity"
+    }
+  ]
+}

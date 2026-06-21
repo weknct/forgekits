@@ -1,0 +1,22 @@
+# Secrets — never commit (per org policy)
+.env
+.env.*
+*.key
+*.pem
+*.p8
+secrets*.json
+*.local.json
+
+# Premium plugins are staged here locally, then pushed to the PRIVATE repo — never to this public repo
+premium-staging/
+
+# Node / build
+node_modules/
+dist/
+build/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
