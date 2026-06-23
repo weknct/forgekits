@@ -1,0 +1,13 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin.json",
+  "name": "mcp-builder-lite",
+  "version": "1.0.0",
+  "description": "Free starter for building Model Context Protocol (MCP) servers: the MCP Architect agent plus Scaffold MCP Server and Design an MCP Tool. Stand up a new server in TypeScript (@modelcontextprotocol/sdk) or Python (mcp / FastMCP) and design your first tool with a precise schema and a robust handler. Upgrade to Premium for resources, prompts, OAuth, MCP Inspector testing, a security review, and publishing.",
+  "author": {
+    "name": "WEKNCT, INC.",
+    "email": "admin@weknct.com"
+  },
+  "homepage": "https://forgekits.dev/mcp-builder",
+  "license": "LicenseRef-ForgeKits-Lite",
+  "keywords": ["mcp", "model-context-protocol", "ai-agents", "tools", "typescript", "python", "developer-tools", "sdk"]
+}
