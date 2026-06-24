@@ -1,6 +1,6 @@
 # ForgeKits
 
-Production-grade **Claude Code plugins** for people who run real work through Claude — marketing automation, AI process decomposition, and AI-guided software delivery. Built by a Claude Certified Architect.
+Production-grade **Claude Code plugins** for people who run real work through Claude — marketing automation, AI process decomposition, AI-guided software delivery, and MCP server development. Built by a Claude Certified Architect.
 
 Each ForgeKit ships a **free Lite** edition (in this marketplace) and a **Premium** edition with the full system.
 
@@ -17,6 +17,7 @@ Each ForgeKit ships a **free Lite** edition (in this marketplace) and a **Premiu
 | **client-attraction-engine-lite** | Split Test Lab (A/B variant generator) + Pipeline Health Check | 6 agents + 12 skills — the full 5-phase client-attraction system |
 | **process-decomposition-lite** | Decompose a workflow into humans, AI skills & AI agents (phases 1 & 3) | the full 9-phase method + registries + SOC 2 / HIPAA / GDPR templates |
 | **sdlc-forge-lite** | Forge Guide orchestrator, phase detection, `/morning-standup` | 100+ commands, ForgeSync (GitHub / Azure DevOps / Jira), 63 templates |
+| **mcp-builder-lite** | MCP Architect agent + Scaffold MCP Server + Design an MCP Tool | full MCP lifecycle: resources, prompts, OAuth, Inspector testing, security review, publish |
 
 Install any of them:
 
@@ -24,6 +25,7 @@ Install any of them:
 /plugin install client-attraction-engine-lite@forgekits
 /plugin install process-decomposition-lite@forgekits
 /plugin install sdlc-forge-lite@forgekits
+/plugin install mcp-builder-lite@forgekits
 ```
 
 ## Go Premium
