@@ -2,7 +2,7 @@
 
 Production-grade **Claude Code plugins** for people who run real work through Claude — marketing automation, AI process decomposition, AI-guided software delivery, and MCP server development. Built by a Claude Certified Architect.
 
-Each ForgeKit ships a **free Lite** edition (in this marketplace) and a **Premium** edition with the full system.
+Each ForgeKit ships a **free Lite** edition here. The full system is delivered **done-for-you** as a service at **forgekits.dev** — you bring the work, we run it and hand you the finished results.
 
 ## Add the marketplace
 
@@ -12,7 +12,7 @@ Each ForgeKit ships a **free Lite** edition (in this marketplace) and a **Premiu
 
 ## Available plugins (Lite — free)
 
-| Plugin | What it does | Premium unlocks |
+| Plugin | What it does (free Lite) | Full system (delivered done-for-you) |
 |--------|--------------|-----------------|
 | **client-attraction-engine-lite** | Split Test Lab (A/B variant generator) + Pipeline Health Check | 6 agents + 12 skills — the full 5-phase client-attraction system |
 | **process-decomposition-lite** | Decompose a workflow into humans, AI skills & AI agents (phases 1 & 3) | the full 9-phase method + registries + SOC 2 / HIPAA / GDPR templates |
@@ -28,9 +28,11 @@ Install any of them:
 /plugin install mcp-builder-lite@forgekits
 ```
 
-## Go Premium
+## Want it done for you?
 
-The Premium editions, the bundle, and the Forge Pro subscription (all packs + updates) are available at **https://forgekits.dev**. Premium is sold through LemonSqueezy; purchase provisions access automatically.
+Bring us the real work and we deliver it — process decompositions, MCP servers, software
+delivery, and client-attraction pipelines, run for you and handed back as finished artifacts.
+Start at **https://forgekits.dev**.
 
 ## License
 

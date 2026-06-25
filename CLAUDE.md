@@ -1,7 +1,12 @@
 # CLAUDE.md — forgekits (public marketplace)
 
 PUBLIC repo `weknct/forgekits`: the ForgeKits marketplace manifest + 4 free **Lite**
-plugins. Top-of-funnel discovery; routes buyers to Premium on forgekits.dev.
+plugins. Top-of-funnel **lead magnets** that route prospects to the done-for-you ForgeKits
+service on forgekits.dev.
+
+> **⚠ PIVOT (2026-06-25):** ForgeKits is now a **hosted, done-for-you service**, not a sold
+> product. These free Lite plugins prove the method and drive **service intakes** — they no
+> longer funnel to a "buy Premium" purchase. Keep them public; never publish premium source.
 
 ## Identity (NON-NEGOTIABLE)
 - Public byline **Michael Xander**; company **WEKNCT, INC.**; email **admin@weknct.com**.
@@ -23,6 +28,6 @@ plugins. Top-of-funnel discovery; routes buyers to Premium on forgekits.dev.
 - Keep README + marketplace.json in sync (4 packs; don't reintroduce the stale "3").
 
 ## Resume pointer
-Portfolio is built; remaining work is account-gated — see hub `08.ACTION-Waiting-On-You.md`.
-For this repo specifically: #16 (submit the 4 Lite packs to the directories) via
-`directory-submission/`.
+Platform is built; remaining work is account-gated — see `weknct-corp/08.ACTION-Waiting-On-You.md`.
+For this repo specifically: optionally submit the 4 Lite packs to public plugin directories
+via `directory-submission/` (still valid as lead-gen, now funneling to the service).
