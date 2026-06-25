@@ -28,6 +28,6 @@ service on forgekits.dev.
 - Keep README + marketplace.json in sync (4 packs; don't reintroduce the stale "3").
 
 ## Resume pointer
-Platform is built; remaining work is account-gated — see `weknct-corp/08.ACTION-Waiting-On-You.md`.
+Platform is built; remaining work is account-gated — see `forgekits-hq/08.ACTION-Waiting-On-You.md`.
 For this repo specifically: optionally submit the 4 Lite packs to public plugin directories
 via `directory-submission/` (still valid as lead-gen, now funneling to the service).
